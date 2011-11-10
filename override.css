@@ -1,0 +1,4 @@
+body { padding-top: 60px;}
+.hero-unit code {font-size: 20px; background-color: transparent;}
+.hero-unit {background-color: rgba(245,245,245,.5);}
+.topbar .brand:hover {background-color:transparent;}
